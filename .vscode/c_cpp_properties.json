@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/janus-gateway",
+                "/usr/lib64/glib-2.0/include",
+                "/usr/include/glib-2.0"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
